@@ -4,8 +4,6 @@ description: Here, you can find all of my latest projects, code snippets, and mo
 date: 2023-05-05
 ---
 
-# Welcome to My GitHub Page!
-
 Hello, and welcome to my GitHub page! Here, you can find all of my latest projects, code snippets, and more. 
 
 ## About Me
